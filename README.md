@@ -69,3 +69,5 @@ Step 5: access the nodejs application from browser
     Hello
     
 The dot "." at the end of the command denotes location of the Dockerfile.
+
+
